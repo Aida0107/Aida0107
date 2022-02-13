@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aida0107
+- 👋 Hi, I’m Saida
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Computer Science 💻
 - 💞️ I’m looking to collaborate on ...
